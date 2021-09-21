@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Aashish Gottipati
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant 
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Utah
-  url: https://www.utah.edu/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO: fill this
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Mobile Networks
-- Applied Machine Learning
-- Representation Learning
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
@@ -43,18 +43,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+  label: Follow me on Twitter
+  display:
+    header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/agottipati9
 - icon: github
   icon_pack: fab
-  link: https://github.com/agottipati9
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aashish-gottipati-705aa717a
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
