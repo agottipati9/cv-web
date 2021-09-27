@@ -14,7 +14,7 @@ organizations:
   url: https://www.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer networks, applied machine learning, and representation learning.
 
 # Interests to show in About widget
 interests:
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Aashish Gottipati and I am a CS Master's student at the University of Utah. My research interests include computer networks, applied machine learning, and representation learning. I am currently a research assistant for FLUX research group, which conducts research in operating systems, networking, security, and virtualization.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
