@@ -29,9 +29,9 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://dl.acm.org/doi/10.1145/3472735.3473392"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=g1Tw0hTGpDY"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
