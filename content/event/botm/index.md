@@ -1,7 +1,7 @@
 ---
 title: Basestation-on-the-move, a Radio Access Network Management Primitive
 
-location: IEEE Infocom CNERT Workshop
+location: IEEE INFOCOM CNERT Workshop
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
