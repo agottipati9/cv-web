@@ -1,6 +1,9 @@
 ---
 title: FedRAN: Federated Mobile Edge Computing with Differential Privacy
 
+event: Wowchemy Conference
+event_url: https://example.org
+
 location: ACM SIGCOMM FlexNets Workshop
 
 summary: An example talk using Wowchemy's Markdown slides feature.
