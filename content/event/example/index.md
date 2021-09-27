@@ -1,8 +1,5 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
+title: FedRAN: Federated Mobile Edge Computing with Differential Privacy
 
 location: ACM SIGCOMM FlexNets Workshop
 
@@ -30,7 +27,7 @@ image:
 links:
 url_code: ""
 url_pdf: "https://dl.acm.org/doi/10.1145/3472735.3473392"
-url_slides: ""
+url_slides: "uploads/FedRAN-slides.pdf"
 url_video: "https://www.youtube.com/watch?v=g1Tw0hTGpDY"
 
 # Markdown Slides (optional).
