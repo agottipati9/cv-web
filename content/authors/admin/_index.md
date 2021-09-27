@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-My name is Aashish Gottipati and I am a CS master's student at the University of Utah, advised by Kobus Van der Merwe. My research interests include computer networks, applied machine learning, and representation learning. I am currently a research assistant for the FLUX research group, which conducts research in operating systems, networking, security, and virtualization.
+My name is Aashish Gottipati and I am a CS master's student, advised by Kobus Van der Merwe, at the University of Utah. My research interests include computer networks, applied machine learning, and representation learning. I am currently a research assistant for the FLUX research group, which conducts research in operating systems, networking, security, and virtualization.
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
