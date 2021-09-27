@@ -1,13 +1,11 @@
 ---
-title: FedRAN Federated Mobile Edge Computing with Differential Privacy
+title: Basestation-on-the-move, a Radio Access Network Management Primitive
 
-location: ACM SIGCOMM FlexNets Workshop
-
-summary: An example talk using Wowchemy's Markdown slides feature.
+location: IEEE Infocom CNERT Workshop
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-23T09:00:00Z"
+date: "2021-05-10T09:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -22,9 +20,9 @@ featured: false
 
 links:
 url_code: ""
-url_pdf: "https://dl.acm.org/doi/10.1145/3472735.3473392"
-url_slides: "uploads/FedRAN-slides.pdf"
-url_video: "https://www.youtube.com/watch?v=g1Tw0hTGpDY"
+url_pdf: "https://ieeexplore.ieee.org/document/9484447"
+url_slides: "uploads/botm-slides.pdf"
+url_video: "https://www.youtube.com/watch?v=HynWL6dJCH8"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
