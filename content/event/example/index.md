@@ -1,5 +1,5 @@
 ---
-title: FedRAN: Federated Mobile Edge Computing with Differential Privacy
+title: FedRAN Federated Mobile Edge Computing with Differential Privacy
 
 event: Wowchemy Conference
 event_url: https://example.org
