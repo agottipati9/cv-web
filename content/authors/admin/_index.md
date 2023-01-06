@@ -6,7 +6,7 @@ title: Aashish Gottipati
 superuser: true
 
 # Role/position/tagline
-role: Intern at Microsoft Research
+role: Teaching Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Aashish Gottipati and I am a CS PhD student, advised by Lili Qiu, at the University of Texas at Austin. My research interests include computer networks, applied machine learning, and representation learning. I am currently a research intern in the IC3-AI group at Microsoft Research. Previously, I completed my master's and bachelor's at the University of Utah, where I was advised by Jacobus Van der Merwe.
+My name is Aashish Gottipati and I am a CS PhD student, advised by Lili Qiu, at the University of Texas at Austin. My research interests include computer networks, applied machine learning, and representation learning. I am currently a teaching assistant at UT Austin. Previously, I completed my master's and bachelor's at the University of Utah, where I was advised by Jacobus Van der Merwe.
 
 <!-- My name is Aashish Gottipati and I am a CS master's student, advised by Jacobus Van der Merwe, at the University of Utah. My research interests include computer networks, applied machine learning, and representation learning. I am currently a research assistant for the FLUX research group, which conducts research in operating systems, networking, security, and virtualization. -->
 
